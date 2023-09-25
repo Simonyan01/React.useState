@@ -1,0 +1,11 @@
+.container {
+  min-width: 100%;
+  min-height: 95vh;
+  display: grid;
+  place-items: center;
+}
+
+.container span {
+  letter-spacing: 3px;
+  transition: all 0.2s linear;
+}

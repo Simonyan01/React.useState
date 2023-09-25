@@ -1,0 +1,18 @@
+.randomTextContainer {
+  display: flex;
+  align-items: center;
+  gap: 3px;
+}
+.randomTextContainer span {
+  position: relative;
+  left: 2rem;
+}
+
+.randomTextContainer img {
+  position: fixed;
+  top: 37rem;
+  left: 56rem;
+  width: 40px;
+  cursor: pointer;
+  transition: all 0.3s linear;
+}
